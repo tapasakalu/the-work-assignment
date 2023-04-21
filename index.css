@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0px;
+    color: #191b70;
+    font-family: "Roboto";
+}
+
+.main-container {
+    background-color: #f0776e;
+    padding: 16px;
+    min-width: 70vh;
+}
+
+.profile-container {
+    align-items: center;
+}
+
+.icon-container {
+    margin-right: 14px;
+}
+
+.icon-image {
+    height: 60px;
+    border: 2px solid;
+    border-radius: 30px;
+    padding: 5px;
+}
+
+.icon-name {
+    font-size: 10px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.profile-details-container {
+    border-bottom: 3px solid;
+    align-items: center;
+}
+
+.profile-person-container {
+    padding-left: 5px;
+}
+
+.profile-description {
+    font-size: 12px;
+}
+
+.profile-description-container {
+    border-left: 3px solid;
+    padding: 10px;
+}
+
+.person-name {
+    font-size: 25px;
+    font-weight: 600;
+    margin-right: 5px;
+}
+
+.designation {
+    font-size: 10px;
+}
+
+.year-container {
+    padding-left: 20px;
+    margin-top: 10px;
+}
+
+.year {
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
+.designation-container {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.work-designation {
+    font-size: 12px;
+    font-weight: 600;
+    margin: 0px;
+}
+
+.designation-description {
+    font-size: 12px;
+}
+
+.skills-container {
+    margin-top: 20px;
+}
+
+.skill-list {
+    list-style: none;
+    margin: 0px;
+}
+
+.skill {
+    margin-right: 16px;
+    font-size: 12px;
+}
+
+.skill-dot-container {
+    margin: 10px;
+    margin-top: 28px;
+    margin-bottom: 28px;
+}
+
+.skill-circle {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 5px;
+    background-color: #191b70;
+}
+
+.skill-details-container {
+    border-left: 3px solid;
+}
+
+.interest-details-container {
+    padding: 10px;
+    border-bottom: 3px solid;
+    justify-content: center;
+}
+
+.interest-container {
+    margin-right: 20px;
+}
+
+.interest-icon-image {
+    height: 60px;
+    border-radius: 50%;
+    padding: 5px;
+    background-color: #191b70;
+}
+
+.interest-icon-name {
+    font-size: 12px;
+    text-align: center;
+}
